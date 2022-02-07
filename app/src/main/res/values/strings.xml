@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AppSuperHero</string>
+    <string name="inteligencia">Inteligencia:</string>
+    <string name="fuerza">Fuerza:</string>
+    <string name="velocidad">Velocidad:</string>
+    <string name="durabilidad">Durabilidad:</string>
+    <string name="poder">Poder:</string>
+    <string name="combate">Combate:</string>
+    <string name="biografia">Biografia</string>
+    <string name="alias">Alias:</string>
+    <string name="lugar_de_naciomiento">Lugar de nacimiento:</string>
+    <string name="nombre_completo">Nombre Completo:</string>
+    <string name="primera_aparici_n">Primera aparición:</string>
+    <string name="publicado_en">Publicado en:</string>
+    <string name="estado">Estado:</string>
+    <string name="estadisticas">Estadísticas</string>
+    <string name="apariencia">Apariencia</string>
+    <string name="genero">Genero:</string>
+    <string name="raza">Raza:</string>
+    <string name="altura">Altura:</string>
+    <string name="peso">Peso:</string>
+    <string name="color_de_ojos">Color de ojos:</string>
+    <string name="color_de_cabello">Color de cabello:</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="ocupacion">Ocupación:</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="conexiones">Conexiones</string>
+    <string name="grupo_de_afiliacion">Grupo de afiliación:</string>
+    <string name="relativos">Relativos:</string>
+    <string name="lista_de_super_heroes">Lista de Super Heroes</string>
+</resources>
